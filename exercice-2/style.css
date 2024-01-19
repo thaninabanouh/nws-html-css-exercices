@@ -37,4 +37,6 @@ position: sticky;
   left: 50%;
 
   /* ATTENTION, pour que l'élément soit centré il va falloir faire une translation */
+  translate: -50% 0;
+  
 }
